@@ -1,2 +1,2 @@
-# azure-rsume
+# azure-azat-resume
 myownazureresume
