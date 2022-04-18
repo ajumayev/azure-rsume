@@ -1,2 +1,4 @@
 # azure-azat-resume
-myownazureresume
+- myownazureresume
+- main.js contains visitor counter
+- 
